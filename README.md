@@ -17,5 +17,9 @@ Não use nada disso em produção ou em qualquer outro ambiente que você consid
 
 Créditos
 ========
+  - Treinamento de DevSecOps 101
     * [Fausto Filho](https://www.linkedin.com/in/faustoafilho/)
     * [André Ricardo Landim](https://www.linkedin.com/in/andrelandim/)
+
+  - Laboratório de SAST
+    * [Fausto Filho](https://www.linkedin.com/in/faustoafilho/)
