@@ -46,7 +46,7 @@ def ping():
 def ping_post():
     address = request.form.get('output')
     args = ["ping", "-c1", address]
-    response = subprocess.Popen(args)
+    response = subprocess.Popen(args, shell=False)
     response.wait()
     if response.poll() == 0:
         otp = "Host ativo!"
