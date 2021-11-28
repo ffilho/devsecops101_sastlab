@@ -14,3 +14,8 @@ Este laboratório tem por objetivo viabilizar o disparo de algumas regras de SAS
 Esse material é tão, mas tão inseguro e mal feito, que não deveria nem existir.
 Não use nada disso em produção ou em qualquer outro ambiente que você considere minimamente útil.
 **Você foi avisado.**
+
+Créditos
+========
+    * [Fausto Filho](https://www.linkedin.com/in/faustoafilho/)
+    * [André Ricardo Landim](https://www.linkedin.com/in/andrelandim/)
